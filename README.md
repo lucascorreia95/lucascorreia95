@@ -6,6 +6,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=2f74c0" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=58c4dc" alt="React" />
 <img src="https://img.shields.io/badge/Library-React_Native-informational?style=flat&logo=react&color=58c4dc" alt="React Native" />
 <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000" alt="Next.js" />
